@@ -1,5 +1,7 @@
 # Credit Intermediation Market — Industry Report
 
+<img width="1920" height="1080" alt="Credit Intermediation Market" src="https://github.com/user-attachments/assets/4e5f1709-54e9-4bfd-9c2e-4bd8c64769a5" />
+
 The Credit Intermediation Market is undergoing rapid transformation as banks, non-bank financial institutions, and private credit funds reshape capital allocation. Macroeconomic volatility, technological disruption, and regulatory changes are creating both opportunities and risks for investors and supply chain decision-makers. This report integrates recent global developments, market forecasts, and actionable insights to guide strategic decisions.
 
 **Recent Market Developments**
